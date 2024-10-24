@@ -1,7 +1,5 @@
 # 基本仕様
 - python
-- tkinter
+- tkinterの予定
 
 # 使用方法
-1.あいう
-2.かきく
